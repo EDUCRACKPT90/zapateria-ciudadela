@@ -1,0 +1,65 @@
+[
+    {
+        "nombre": "zapatos de cuero",
+        "precio": 95000,
+        "fecha": "24 - 11 - 26",
+        "imagen": "images/pizza_muzza.webp",
+        "descripcion": "perfectos para ir a una junta de suma importancia"
+    },
+
+    {
+        "nombre": "zapatillas FILA",
+        "precio": 67000,
+        "fecha": "22 - 11 - 26",
+        "imagen": "images/pizza-muzza-con-albahaca-y-tomate-cherry.png",
+        "descripcion": "muy buenas para el deporte y el día a día"
+    },
+
+    {
+        "nombre": "zapatos de baile",
+        "precio": 120000,
+        "fecha": "24 - 11 - 26",
+        "imagen": "images/pizza-pepperoni.webp",
+        "descripcion": "perfectos para practicar bailes y danzas"
+    },
+
+    {
+        "nombre": "zapatillas addidas",
+        "precio": 40628,
+        "fecha": "22 - 9 - 26",
+        "imagen": "images/pizza-margarita.webp",
+        "descripcion": "las mejores de la marca"
+    },
+
+    {
+        "nombre": "zapatillas BORIS",
+        "precio": 76000,
+        "fecha": "24 - 11 - 26",
+        "imagen": "images/pizza-napolitana.webp",
+        "descripcion": "las zapatillas de ultima generación"
+    },
+
+    {
+        "nombre": "zapatillas Redbook",
+        "precio": 85000,
+        "fecha": "24 - 11 - 26",
+        "imagen": "images/pizza-jamon-y-queso.webp",
+        "descripcion": "las mejores en adaptación"
+    },
+
+    {
+        "nombre": "zapatos de malambo",
+        "precio": 50000,
+        "fecha": "24 - 11 - 26",
+        "imagen": "images/pizza-jamon-queso-azul-y-morron.webp",
+        "descripcion": "simplementes, zapatea bien el piso"
+    },
+
+    {
+        "nombre": "tacones",
+        "precio": 130000,
+        "fecha": "24 - 11 - 26",
+        "imagen": "images/pizza_muzza_champi_palmitos_alcauciles.webp",
+        "descripcion": "perfectos para una mujer"
+    }
+]
