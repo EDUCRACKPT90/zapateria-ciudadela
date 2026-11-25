@@ -46,7 +46,7 @@ Proyecto desarrollado con **HTML, CSS y JavaScript vanilla** (módulos ES6), sin
 │       └── products.js    
 └── img/
     ├── logo.webp
-    └── pizza-*.jpg (Listas de pizzas)
+    └── zapatos/zapatillas-*.jpg (Listas de calzados)
 
 ```
 
