@@ -3,7 +3,7 @@
         "nombre": "zapatos de cuero",
         "precio": 95000,
         "fecha": "24 - 11 - 26",
-        "imagen": "images/pizza_muzza.webp",
+        "imagen": "images/zapatos-de-cuero.webp",
         "descripcion": "perfectos para ir a una junta de suma importancia"
     },
 
@@ -11,15 +11,15 @@
         "nombre": "zapatillas FILA",
         "precio": 67000,
         "fecha": "22 - 11 - 26",
-        "imagen": "images/pizza-muzza-con-albahaca-y-tomate-cherry.png",
+        "imagen": "images/zapatillas-fila.webp",
         "descripcion": "muy buenas para el deporte y el día a día"
     },
 
     {
-        "nombre": "zapatos de baile",
+        "nombre": "zapatillas Jordan",
         "precio": 120000,
         "fecha": "24 - 11 - 26",
-        "imagen": "images/pizza-pepperoni.webp",
+        "imagen": "images/zapatillas-jordan.webp",
         "descripcion": "perfectos para practicar bailes y danzas"
     },
 
@@ -27,23 +27,23 @@
         "nombre": "zapatillas addidas",
         "precio": 40628,
         "fecha": "22 - 9 - 26",
-        "imagen": "images/pizza-margarita.webp",
+        "imagen": "images/zapatillas-addidas.webp",
         "descripcion": "las mejores de la marca"
     },
 
     {
-        "nombre": "zapatillas BORIS",
+        "nombre": "zapatillas New Balance",
         "precio": 76000,
         "fecha": "24 - 11 - 26",
-        "imagen": "images/pizza-napolitana.webp",
+        "imagen": "images/zapatillas-new-balance.webp",
         "descripcion": "las zapatillas de ultima generación"
     },
 
     {
-        "nombre": "zapatillas Redbook",
+        "nombre": "zapatillas PUMA",
         "precio": 85000,
         "fecha": "24 - 11 - 26",
-        "imagen": "images/pizza-jamon-y-queso.webp",
+        "imagen": "images/zapatillas-puma.webp",
         "descripcion": "las mejores en adaptación"
     },
 
@@ -51,7 +51,7 @@
         "nombre": "zapatos de malambo",
         "precio": 50000,
         "fecha": "24 - 11 - 26",
-        "imagen": "images/pizza-jamon-queso-azul-y-morron.webp",
+        "imagen": "images/zapatos-de-malambo.webp",
         "descripcion": "simplementes, zapatea bien el piso"
     },
 
@@ -59,7 +59,7 @@
         "nombre": "tacones",
         "precio": 130000,
         "fecha": "24 - 11 - 26",
-        "imagen": "images/pizza_muzza_champi_palmitos_alcauciles.webp",
+        "imagen": "images/tacones-rojos.webp",
         "descripcion": "perfectos para una mujer"
     }
 ]
